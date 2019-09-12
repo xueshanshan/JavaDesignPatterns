@@ -10,3 +10,8 @@
 - [组合模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/composite_pattern)
 - [代理模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/proxy_pattern)
 - [装饰器模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/decorate_pattern)
+- [构建者模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/builder_pattern)
+- [命令模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/command_pattern)
+- [观察者模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/observer_pattern)
+- [状态机模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/status_pattern)
+- [责任链模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/responsibility_chain_pattern)
