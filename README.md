@@ -9,3 +9,4 @@
 - [桥接模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/bridge_pattern)
 - [组合模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/composite_pattern)
 - [代理模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/proxy_pattern)
+- [装饰器模式](https://github.com/xueshanshan/JavaDesignPatterns/tree/master/app/src/main/java/com/star/design_patterns/decorate_pattern)
